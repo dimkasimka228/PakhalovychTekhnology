@@ -19,3 +19,8 @@ public class TestApp {
         System.out.println("GIT test application");
     }
 }
+System.out.println("Версія з main — Pakhalovych");
+
+
+
+
